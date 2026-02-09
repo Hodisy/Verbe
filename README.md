@@ -1,7 +1,5 @@
 # Verbe
 
-[[insert logo here]]
-
 [![Swift](https://img.shields.io/badge/Swift-5.9%2B-F05138?logo=swift&logoColor=white)](https://swift.org/)
 [![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey)](https://www.apple.com/macos/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
@@ -28,3 +26,5 @@ Verbe/
 ## License
 
 Released under the MIT License. See [LICENSE](./LICENSE).
+
+![Verbe Thumbnail](./documentation/thumbnail.png)
