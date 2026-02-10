@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>NSAccessibilityUsageDescription</key>
+		<string>Verbe needs access to control your computer and read selected text</string>
+		<key>NSAppleEventsUsageDescription</key>
+		<string>Verbe uses AppleScript to capture and insert text in other apps</string>
+		<key>NSMicrophoneUsageDescription</key>
+		<string>Verbe uses your microphone to capture voice commands and enable voice interaction</string>
+	</dict>
+</plist>
